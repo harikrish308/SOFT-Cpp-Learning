@@ -6,7 +6,7 @@ int main() {
     double units;
     double totalBill = 0.0;
 
-    cout << "Enter total units consumed: ";
+    cout << " Enter total units consumed: ";
     cin >> units;
 
     if (units < 0) {
