@@ -11,10 +11,10 @@ int main()
 }
     else if(marks >= 40)
     {
-        cout << " You are Passed!" << endl;
+        cout << " You are Passed..!" << endl;
     }
     else
     {
-        cout << " You are Failed!" << endl;
+        cout << " You are Failed..!" << endl;
     }
 }
