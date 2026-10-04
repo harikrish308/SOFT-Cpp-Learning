@@ -8,7 +8,7 @@ int main()
 
     if(num > 0)
     {
-        cout << " The Number is POSITIVE!" << endl;
+        cout << "The Number is POSITIVE!" << endl;
     }
     else if(num < 0)
     {
