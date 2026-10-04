@@ -4,7 +4,7 @@ int main()
 {
 double a,b;
 char op;
-cout<<"Enter two numbers : ";
+cout<<"Enter  two numbers : ";
 cin >> a >> op >>b;
 
 switch(op)
