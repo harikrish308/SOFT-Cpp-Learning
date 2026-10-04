@@ -2,9 +2,10 @@
 using namespace std;
 
 int main() 
+
 {
     int num;
-    cout <<"Enter the Number : ";
+    cout << "Enter the Number : ";
     cin >>num;
      
     if(num % 2 == 0){
